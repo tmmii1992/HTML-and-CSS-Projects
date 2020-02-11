@@ -1,0 +1,24 @@
+body {
+    color: whitesmoke;
+    background-color:blueviolet;
+    font-size: medium;
+    border:5px black;
+    border-style:solid;
+}
+
+.gallery {
+    color: black;
+    border-radius:10px;
+    font: 300;
+    border-style: groove;
+    border:2px black;
+}
+
+ img{
+     height:500px;
+     width:400px;
+     border:200px black;
+     border-radius:200px;
+     border-color: black;
+
+ }
